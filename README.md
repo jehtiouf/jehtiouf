@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason Tiou-Fat @jehtiouf
-- 👀 I’m interested in building data-intensive applications
+- 👀 I’m interested in designing & building data-intensive applications
 - 🌱 I’m currently studying Mechatronics Eng with a minor in Software Eng @UWaterloo, incoming SWE intern @ Enlighted
 - 📫 How to reach me - jehtiouf@uwaterloo.ca | https://www.linkedin.com/in/jehtiouf/
 <!---
